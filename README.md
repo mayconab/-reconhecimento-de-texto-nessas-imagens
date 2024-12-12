@@ -1,0 +1,1 @@
+# -reconhecimento-de-texto-nessas-imagens
