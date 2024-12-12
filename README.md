@@ -2,7 +2,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Teconhecimento de texto nessas imagensL</span>
+    <span>Reconhecimento de texto nessas imagensL</span>
 </h1>
 
 ## Sobre o Projeto
